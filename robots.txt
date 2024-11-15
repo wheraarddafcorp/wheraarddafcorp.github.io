@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://wheraarddafcorp.github.io/wheraarddafcorp_github_io_zp533_12.txt
+Sitemap: https://wheraarddafcorp.github.io/wheraarddafcorp_github_io_zp533_17.txt
+Sitemap: https://wheraarddafcorp.github.io/wheraarddafcorp_github_io_zp533_21.txt
+Sitemap: https://wheraarddafcorp.github.io/wheraarddafcorp_github_io_zp533_26.txt
+Sitemap: https://wheraarddafcorp.github.io/wheraarddafcorp_github_io_zp533_4.txt
+Sitemap: https://wheraarddafcorp.github.io/wheraarddafcorp_github_io_zp533_9.txt
